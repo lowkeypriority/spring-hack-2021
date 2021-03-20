@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/.idea.spring-hack-2021.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../:\GitHub\spring-hack-2021\.idea\.idea.spring-hack-2021\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
