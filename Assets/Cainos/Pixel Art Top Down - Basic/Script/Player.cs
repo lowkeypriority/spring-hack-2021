@@ -12,7 +12,7 @@ public class Player : MonoBehaviour
     private bool isJerk = false;
 
     Vector2 movement;
-    Vector2 mousePosition;
+  //  Vector2 mousePosition;
 
 
 
@@ -21,7 +21,7 @@ public class Player : MonoBehaviour
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
 
-        mousePosition = cameraObject.ScreenToWorldPoint(Input.mousePosition);
+        //mousePosition = cameraObject.ScreenToWorldPoint(Input.mousePosition);
 
         if (Input.GetKey(KeyCode.R) && !isJerk)
         {
@@ -44,9 +44,9 @@ public class Player : MonoBehaviour
     {
         rigidBodyComponent.MovePosition(rigidBodyComponent.position + movement * moveSpeed * Time.fixedDeltaTime);
 
-        Vector2 lookDirection = mousePosition - rigidBodyComponent.position;
-        float angle = Mathf.Atan2(lookDirection.y, lookDirection.x) * Mathf.Rad2Deg - 90f;
+       // Vector2 lookDirection = mousePosition - rigidBodyComponent.position;
+       // float angle = Mathf.Atan2(lookDirection.y, lookDirection.x) * Mathf.Rad2Deg - 90f;
 
-        rigidBodyComponent.rotation = angle;
+       // rigidBodyComponent.rotation = angle;
     }
 }

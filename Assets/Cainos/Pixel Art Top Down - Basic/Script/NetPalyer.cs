@@ -7,7 +7,7 @@ public class NetPalyer : NetworkBehaviour
 {
     public float moveSpeed = 5f;
     public Rigidbody2D rigidBodyComponent;
-    public Camera cameraObject;
+    //public Camera cameraObject;
 
     Vector2 movement;
     Vector2 mousePosition;
@@ -18,11 +18,11 @@ public class NetPalyer : NetworkBehaviour
         {
             return;
         }
-        
+
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
 
-        mousePosition = cameraObject.ScreenToWorldPoint(Input.mousePosition);
+      //  mousePosition = cameraObject.ScreenToWorldPoint(Input.mousePosition);
     }
 
     private void FixedUpdate()
@@ -31,11 +31,11 @@ public class NetPalyer : NetworkBehaviour
         {
             return;
         }
-        rigidBodyComponent.MovePosition(rigidBodyComponent.position + movement * moveSpeed * Time.fixedDeltaTime);
+       // rigidBodyComponent.MovePosition(rigidBodyComponent.position + movement * moveSpeed * Time.fixedDeltaTime);
 
-        Vector2 lookDirection = mousePosition - rigidBodyComponent.position;
-        float angle = Mathf.Atan2(lookDirection.y, lookDirection.x) * Mathf.Rad2Deg - 90f;
+          Vector2 lookDirection = mousePosition - rigidBodyComponent.position;
+       // float angle = Mathf.Atan2(lookDirection.y, lookDirection.x) * Mathf.Rad2Deg - 90f;
 
-        rigidBodyComponent.rotation = angle;
+       // rigidBodyComponent.rotation = angle;
     }
 }
