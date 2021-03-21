@@ -1,43 +1,43 @@
 fileFormatVersion: 2
-guid: 5954ed4f8ed94b44ba8585056436e4cd
+guid: 5602b8da33460d34b9baa11736226eab
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4041018253899840722
-    second: chpepper1squirePNG_0
+      213: 6019904023235092774
+    second: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_0"
   - first:
-      213: 9194121476790511614
-    second: chpepper1squirePNG_1
+      213: -6988180833913918850
+    second: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_1"
   - first:
-      213: 2237581525363844977
-    second: chpepper1squirePNG_2
+      213: -4556060192413370411
+    second: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_2"
   - first:
-      213: 7840817532175195957
-    second: chpepper1squirePNG_3
+      213: 2930328953162927164
+    second: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_3"
   - first:
-      213: 2471588488049479258
-    second: chpepper1squirePNG_4
+      213: -2470448264219429824
+    second: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_4"
   - first:
-      213: -3377897717892133599
-    second: chpepper1squirePNG_5
+      213: -6590863890633380020
+    second: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_5"
   - first:
-      213: -5401617152391791850
-    second: chpepper1squirePNG_6
+      213: 7784487611080194744
+    second: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_6"
   - first:
-      213: -2162173403618610184
-    second: chpepper1squirePNG_7
+      213: -6641355827327996655
+    second: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_7"
   - first:
-      213: 8143171922509141794
-    second: chpepper1squirePNG_8
+      213: 7187748041397887466
+    second: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_8"
   - first:
-      213: -2410485051883616818
-    second: chpepper1squirePNG_9
+      213: 3031243753250781408
+    second: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_9"
   - first:
-      213: 9207942152083239688
-    second: chpepper1squirePNG_10
+      213: -1371265692241305771
+    second: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_10"
   - first:
-      213: -2761929000640390313
-    second: chpepper1squirePNG_11
+      213: 1972027938855907059
+    second: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_11"
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -151,253 +151,253 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chpepper1squirePNG_0
+      name: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_0"
       rect:
         serializedVersion: 2
-        x: 9
+        x: 0
         y: 96
         width: 15
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2dcb19211b4941830800000000000000
-      internalID: 4041018253899840722
+      spriteID: 6216fd670defa8350800000000000000
+      internalID: 6019904023235092774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chpepper1squirePNG_1
+      name: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_1"
       rect:
         serializedVersion: 2
-        x: 41
-        y: 97
-        width: 15
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef763e545c4189f70800000000000000
-      internalID: 9194121476790511614
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chpepper1squirePNG_2
-      rect:
-        serializedVersion: 2
-        x: 72
+        x: 32
         y: 96
         width: 15
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 177e947ca8c7d0f10800000000000000
-      internalID: 2237581525363844977
+      spriteID: e7a2e587e8ef40f90800000000000000
+      internalID: -6988180833913918850
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chpepper1squirePNG_3
+      name: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_2"
       rect:
         serializedVersion: 2
-        x: 11
-        y: 64
-        width: 11
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 63
+        y: 96
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53f15f9c00e20dc60800000000000000
-      internalID: 7840817532175195957
+      spriteID: 5d737efd46f95c0c0800000000000000
+      internalID: -4556060192413370411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chpepper1squirePNG_4
+      name: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_3"
       rect:
         serializedVersion: 2
-        x: 43
-        y: 65
-        width: 11
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a5e422582a8dc4220800000000000000
-      internalID: 2471588488049479258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chpepper1squirePNG_5
-      rect:
-        serializedVersion: 2
-        x: 74
+        x: 1
         y: 64
         width: 12
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12dcf652ceb4f11d0800000000000000
-      internalID: -3377897717892133599
+      spriteID: c3c815848ae9aa820800000000000000
+      internalID: 2930328953162927164
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chpepper1squirePNG_6
+      name: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_4"
       rect:
         serializedVersion: 2
-        x: 10
+        x: 33
+        y: 64
+        width: 12
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0447837846437bdd0800000000000000
+      internalID: -2470448264219429824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_5"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 12
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f29db163c8884a0800000000000000
+      internalID: -6590863890633380020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_6"
+      rect:
+        serializedVersion: 2
+        x: 1
         y: 32
         width: 12
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61bb703a1d99905b0800000000000000
-      internalID: -5401617152391791850
+      spriteID: 8ba3dd00d3e080c60800000000000000
+      internalID: 7784487611080194744
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chpepper1squirePNG_7
+      name: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_7"
       rect:
         serializedVersion: 2
-        x: 42
-        y: 33
-        width: 12
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f3f38ebeba6ef1e0800000000000000
-      internalID: -2162173403618610184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chpepper1squirePNG_8
-      rect:
-        serializedVersion: 2
-        x: 74
+        x: 33
         y: 32
         width: 12
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 227971a18bb520170800000000000000
-      internalID: 8143171922509141794
+      spriteID: 11de42dff0a25d3a0800000000000000
+      internalID: -6641355827327996655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chpepper1squirePNG_9
+      name: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_8"
       rect:
         serializedVersion: 2
-        x: 9
+        x: 65
+        y: 32
+        width: 12
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1e786e2c200c360800000000000000
+      internalID: 7187748041397887466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_9"
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 0
         width: 15
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec5861add9c3c8ed0800000000000000
-      internalID: -2410485051883616818
+      spriteID: 0e872242224211a20800000000000000
+      internalID: 3031243753250781408
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chpepper1squirePNG_10
+      name: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_10"
       rect:
         serializedVersion: 2
-        x: 41
-        y: 1
-        width: 15
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 803744ff99e29cf70800000000000000
-      internalID: 9207942152083239688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chpepper1squirePNG_11
-      rect:
-        serializedVersion: 2
-        x: 72
+        x: 32
         y: 0
         width: 15
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75bdafd0538aba9d0800000000000000
-      internalID: -2761929000640390313
+      spriteID: 55fd6414e1948fce0800000000000000
+      internalID: -1371265692241305771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0411\u0435\u0437 \u0438\u043C\u0435\u043D\u0438-3_11"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fee6ae46fc0e5b10800000000000000
+      internalID: 1972027938855907059
       vertices: []
       indices: 
       edges: []
