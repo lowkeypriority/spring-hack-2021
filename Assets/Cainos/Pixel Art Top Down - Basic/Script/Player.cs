@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using System.Collections;
 
 public class Player : MonoBehaviour
 {
@@ -9,8 +8,13 @@ public class Player : MonoBehaviour
     public Rigidbody2D rigidBodyComponent;
     public Camera cameraObject;
 
+    private float jerkTime = 10;
+    private bool isJerk = false;
+
     Vector2 movement;
     Vector2 mousePosition;
+
+
 
     private void Update()
     {
@@ -18,6 +22,22 @@ public class Player : MonoBehaviour
         movement.y = Input.GetAxisRaw("Vertical");
 
         mousePosition = cameraObject.ScreenToWorldPoint(Input.mousePosition);
+
+        if (Input.GetKey(KeyCode.R) && !isJerk)
+        {
+            StartCoroutine(Jerk());
+        }
+    }
+
+
+    private IEnumerator Jerk()
+    {
+        isJerk = true;
+        moveSpeed *= 6f;
+        yield return new WaitForSeconds(0.1f);
+        moveSpeed = 5f;
+        yield return new WaitForSeconds(jerkTime);
+        isJerk = false;
     }
 
     private void FixedUpdate()
